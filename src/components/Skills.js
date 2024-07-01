@@ -12,9 +12,9 @@ export default function Skills() {
                     Skills &amp; Technologies
                 </h1>
                 <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-                    ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-                    possimus est.
+                    Harnessing a diverse range of skills and advanced technologies to drive
+                    innovation and deliver exceptional results. Explore the tools and expertise 
+                    that empower my creative and technical endeavors.
                 </p>
                 </div>
                 <div>

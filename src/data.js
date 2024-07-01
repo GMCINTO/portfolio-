@@ -16,20 +16,20 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Spotify Song Popularity Predictor",
+    title: "Spotify Song Popularity Predictor ",
     subtitle: "Python, SKLearn, Pandas, Numpy",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "In this project, I employed a comprehensive Spotify dataset encompassing a diverse collection of songs. Leveraging 20 distinct features per song, I trained multiple models to predict song popularity with precision. The objective was twofold: to evaluate the predictive accuracy of various models and identify key features crucial to prediction outcomes.",
+    image: "./ml_spotify.gif",
+    link: "https://github.com/GMCINTO/cs345_project",
   },
   {
     title: "Spotify Dataset Analytics with Graphical Data Representations ",
     subtitle: "R, Rplots, Rpart, ggplot2",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "In this project, I utilized the R programming language to meticulously organize and analyze a Spotify dataset comprising multiple song features. I then translated my insights into compelling visual representations.",
+    image: "./da_spotify.gif",
+    link: "https://github.com/GMCINTO/R_Projects",
   },
 ];
 

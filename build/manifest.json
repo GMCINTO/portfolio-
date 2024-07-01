@@ -1,21 +1,25 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Portfolio React App",
+  "name": "Glen McIntosh Portfolio",
   "icons": [
+
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "icons8-portfolio-dotted-96.png",
+      "sizes": "96×96",
+      "type": "image/png",
+      "density": "2.0"
     },
     {
-      "src": "logo192.png",
+      "src": "icons8-portfolio-dotted-16.png",
+      "sizes": "16x16",
       "type": "image/png",
-      "sizes": "192x192"
+      "density": "2.0"
     },
     {
-      "src": "logo512.png",
+      "src": "icons8-portfolio-dotted-32.png",
+      "sizes": "32,32",
       "type": "image/png",
-      "sizes": "512x512"
+      "density": "2.0"
     }
   ],
   "start_url": ".",

@@ -12,9 +12,9 @@ export default function Projects() {
                         My Projects
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                    Here is a collection of some of my favorite projects. I wanted to chose a couple that showcase 
-                    my experience with different technologies and technical concepts. Though my expirience is limited, 
-                    I am always looking to learn new things and improve on things I have had my hands on before. 
+                    Here is a curated selection of my favorite projects. These examples highlight my 
+                    experience with various technologies and technical concepts. While my experience is still growing, 
+                    I am committed to continuous learning and enhancing my skills in both new and familiar areas.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">

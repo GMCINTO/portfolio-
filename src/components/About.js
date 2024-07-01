@@ -10,7 +10,7 @@ export default function About() {
                         <br className="hidden lg:inline-block" />I love to learn and build cool things.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    I have recently graduated with a bachelor's degree, bringing extensive experience in problem-solving 
+                    I have recently graduated with a bachelor's degree in Computer Science, bringing extensive experience in problem-solving 
                     and critical thinking. During my years in the automotive industry as a student and then as a technician, 
                     I honed my skills in diagnostics and repair work. These experiences nurtured my passion for solving problems 
                     and making broken things work again. This passion seamlessly translated into my studies in computer science, 
