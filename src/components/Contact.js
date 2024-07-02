@@ -76,7 +76,7 @@ export default function Contact() {
               </a>
             </div>
           </div>
-          <img src=".././glen_headshot.jpg" alt="Glen McIntosh headshot" className="w-2/5 h-auto object-cover ml-20" />
+          <img src="./glen_headshot.jpg" alt="Glen McIntosh headshot" className="w-2/5 h-auto object-cover ml-20" />
         </div>
         <form
           //netlify
