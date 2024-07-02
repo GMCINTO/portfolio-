@@ -24,7 +24,8 @@ export default function Contact() {
     <section id="contact" className="relative">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-start justify-start relative">
-          <div className="bg-gray-900 relative flex flex-col py-6 rounded shadow-md w-full">
+          {/* <img src=".././glen_headshot.jpg" alt="Glen McIntosh headshot" className="w-2/5 h-auto object-cover ml-4" /> */}
+          <div className="bg-gray-900 relative flex flex-col py-6 rounded w-1/3 ml-10 mr-10">
             <div className="px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
@@ -75,6 +76,7 @@ export default function Contact() {
               </a>
             </div>
           </div>
+          <img src=".././glen_headshot.jpg" alt="Glen McIntosh headshot" className="w-2/5 h-auto object-cover ml-20" />
         </div>
         <form
           //netlify
