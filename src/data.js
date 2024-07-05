@@ -5,7 +5,7 @@ export const projects = [
     description:
       "For this project, I collaborated closely with a small team, employing Agile project management methodologies to develop an enterprise-quality project management web application. The application was built using Java and React, incorporating REST APIs and React hooks. Emphasis was placed on extensive and comprehensive testing of all software components.",
     image: "./react_webApp.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/GMCINTO",
   },
   {
     title: "Spotify Song Popularity Predictor ",
